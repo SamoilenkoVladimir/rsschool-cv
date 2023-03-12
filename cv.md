@@ -4,7 +4,7 @@
 
 - Country: **Belarus**
 - Town: **Vitebsk**
-- Git:**[ SamoilenkoVladimir]**(https://github.com/SamoilenkoVladimir/rsschool-cv/blob/gh-pages/cv.md)
+- Git:[ SamoilenkoVladimir][def]
 
 - Code example:
 
@@ -14,3 +14,5 @@ function greet() {
     };
 alert(greet());
 ```
+
+[def]: https://github.com/SamoilenkoVladimir/rsschool-cv/blob/gh-pages/cv.md

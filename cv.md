@@ -4,7 +4,7 @@
 
 - Country: **Belarus**
 - Town: **Vitebsk**
-- Git:[ SamoilenkoVladimir](__https://github.com/SamoilenkoVladimir__)
+- Git:[ SamoilenkoVladimir](__https://github.com/SamoilenkoVladimir/rsschool-cv/blob/gh-pages/cv.md__)
 
 - Code example:
 

@@ -2,9 +2,10 @@
 
 ![cat](https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif)
 
-- Country: **Belarus**
-- Town: **Vitebsk**
-- Git:[ SamoilenkoVladimir][def]
+- Contacts: **Vladimir (@SamoilenkoVladimir)**
+- Brief information about yourself: **my goal is to learn**
+- Skills: **Java**
+- Git: [**SamoilenkoVladimir**][def]
 
 - Code example:
 
@@ -14,5 +15,9 @@ function greet() {
     };
 alert(greet());
 ```
+
+- Experience: **software engineer**
+- Education: **university**
+- English language level: **B1**
 
 [def]: https://github.com/SamoilenkoVladimir/rsschool-cv/blob/gh-pages/cv.md

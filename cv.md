@@ -7,7 +7,7 @@
 
 ```
 function greet() {
-    return "hello !";
+    return "hello world!";
     };
 alert(greet());
 ```
